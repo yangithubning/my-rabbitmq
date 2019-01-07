@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: my-rabbitmq
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ning yan
+Implementation-Vendor-Id: com.xfqb.rabbitmq
+Build-Jdk: 1.8.0_141
+Implementation-URL: http://projects.spring.io/spring-boot/my-rabbitmq/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
